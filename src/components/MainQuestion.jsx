@@ -55,8 +55,8 @@ export const MainQuestion = () => {
   return (
     <div style={{ alignContent: 'center' }}>
       <div>
-        <h2>Will you be </h2>
-        <h2>my Girlfriend?</h2>
+        <h2>Can I date you? </h2>
+        <h2>I know places where we can have fun together.</h2>
         <Gif url='https://media.giphy.com/media/92YG8KKSjYhMc/giphy.gif' />
         <div style={{ paddingTop: '10px' }}>
           <p style={{ fontSize: '10px' }}>try clicking no :P </p>
